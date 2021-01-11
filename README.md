@@ -11,7 +11,7 @@ Time spent: **8** hours spent in total
 The following **required** functionality is completed:
 
 * [x] User can **view a list of todo items**
-* [ ] User can **successfully add and remove items** from the todo list
+* [x] User can **successfully add and remove items** from the todo list
 * [x] User's **list of items persisted** upon modification and and retrieved properly on app restart
 
 The following **optional** features are implemented:
@@ -21,6 +21,8 @@ The following **optional** features are implemented:
 The following **additional** features are implemented:
 
 * [ ] List anything else that you can get done to improve the app functionality!
+* Change the order of items
+* Show deadline of each todo items and send notifications
 
 ## Video Walkthrough
 
